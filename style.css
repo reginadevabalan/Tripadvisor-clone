@@ -498,6 +498,9 @@ body{
     .footer__four__s2{
         display:none;
     }
+    .icons{
+        display:none;
+    }
  }
 
  @media screen and (max-width:600px){
@@ -534,6 +537,9 @@ body{
         display:none;
     }
     .footer__four__s2{
+        display:none;
+    }
+    .icons{
         display:none;
     }
  }
